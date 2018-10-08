@@ -7,7 +7,7 @@ package assignment4;
 
 /**
  *
- * @author rizwaan and Grayson
+ * @author rizwaan and Graysen
  */
 public class Weather {
     private int temp;
@@ -32,6 +32,6 @@ public class Weather {
     }
     
    public int getTempCel(){
-       return (temp - 32)*(5/9); 
+       return ((temp - 32)*(5/9)); 
    }
 }
