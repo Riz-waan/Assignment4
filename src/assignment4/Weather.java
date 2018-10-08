@@ -7,7 +7,7 @@ package assignment4;
 
 /**
  *
- * @author rizwaan
+ * @author rizwaan and Grayson
  */
 public class Weather {
     private int temp;
